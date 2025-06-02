@@ -1,0 +1,18 @@
+# Dépendances pour le projet Wiimote Transmitter
+
+# Pour la communication réseau UDP (inclus avec Python)
+# socket
+# json
+# time
+
+# Pour l'interface avec la Wiimote côté client
+pygame>=2.1.0
+
+# Pour le mode fallback clavier (auto-installation si nécessaire)
+keyboard>=1.13.0
+
+# Pour la simulation des contrôleurs vJoy côté host
+pyvjoy>=1.0.0
+
+# Pour les anciens systèmes si besoin (optionnel)
+# keyboard>=1.13.0 
