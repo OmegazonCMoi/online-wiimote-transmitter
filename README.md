@@ -1,7 +1,3 @@
-Voici un exemple de README clair et structuré pour ton projet **online-wiimote-transmitter** :
-
----
-
 # online-wiimote-transmitter
 
 **Contrôlez Dolphin à distance avec une vraie Wiimote connectée à un PC client, en transmettant les commandes via le réseau vers un PC hôte qui émule la Wiimote avec vJoy.**
